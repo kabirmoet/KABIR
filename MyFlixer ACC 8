@@ -1,9 +1,9 @@
 {
-    "apiUrl" : "https://admin.gomovies.ma/api/",
+    "apiUrl" : "https://easyplex.cf/api/",
 
-	"pushUpdate" : "off",
+	"pushUpdate" : "on",
 
-	"newPackage" : "",
+	"newPackage" : "com.myflix.movie",
 	"NetworkAds" : "applovin"
 
 }
